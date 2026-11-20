@@ -1,0 +1,6 @@
+{
+  "name": "SPACE: BEYOND THE UNKNOWN",
+  "description": "A cinematic 3D space exploration game set in 2389. Captain ODYSSEY-7 across uncharted worlds, communicate with alien civilizations, manage ship systems, and uncover ancient cosmic secrets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
